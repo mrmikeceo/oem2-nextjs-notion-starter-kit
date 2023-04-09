@@ -6,15 +6,15 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: 'fde5ac74eea345278f004482710e1af3',
+  rootNotionSpaceId: '1efb99b10e9946bf80ff69152eeb17bd',
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'OEM2 - All About Technologies',
+  domain: 'oem2.com',
+  author: 'Good A. Brain',
 
   // open graph metadata (optional)
-  description: 'Personal site of Travis Fischer aka Transitive Bullshit',
+  description: 'Were dedicated to exploring the most exciting innovations and emerging trends in the world of tech, and sharing them with our readers in an engaging and accessible way',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
@@ -57,11 +57,11 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'About',
-      pageId: '8d0062776d0c4afca96eb1ace93a7538'
+      pageId: 'aef3608c00e9418ea1f42e1b3fcd6629'
     },
     {
       title: 'Contact',
-      pageId: '9a7ddf2973444067bbc5ce0a4e0e0058'
+      pageId: 'eaceefbed0f94c1a805aad0aa8b904ac'
     }
   ]
 })
