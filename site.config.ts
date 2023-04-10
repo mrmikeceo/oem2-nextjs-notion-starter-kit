@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'OEM2 - All About Technologies',
-  domain: '',
+  domain: 'oem2com.notion.site',
   author: 'Good A. Brain',
 
   // open graph metadata (optional)
