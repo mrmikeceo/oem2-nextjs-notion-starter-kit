@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: '1efb99b10e9946bf80ff69152eeb17bd',
 
   // basic site info (required)
-  name: 'OEM2 - All About Technologies',
-  domain: 'oem2com',
+  name: 'Next.js Notion Starter Kit',
+  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Good A. Brain',
 
   // open graph metadata (optional)
