@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: 'deef835eccb283dd92867e3721a81105334d63a5',
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'OEM2 - All about technology trends',
   domain: 'oem2com.notion.site',
   author: 'Good A. Brain',
 
@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
+  // github: 'transitive-bullshit',
   linkedin: 'fisch2',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
