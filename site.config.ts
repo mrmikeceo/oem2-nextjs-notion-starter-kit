@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'Were dedicated to exploring the most exciting innovations and emerging trends in the world of tech, and sharing them with our readers in an engaging and accessible way',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  twitter: 'oem2_com',
   // github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  linkedin: 'oem2-com',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
